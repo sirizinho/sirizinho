@@ -1,16 +1,28 @@
-## Hi there 👋
+## Opa Joao aqui👋
 
-<!--
-**sirizinho/sirizinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor em evolução com experiência em Python, Django, HTML, CSS e JavaScript. <br> 
+Busco criar soluções eficientes e inovadoras, sempre aprendendo novas tecnologias.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📕 Estudante de Engenharia de Software
+- 💻 Fullstack developer
+- ☕ Transformando café em código
+
+##
+
+**😎 Linguagens e Tecnologias que Conheço:**
+
+<div display="in-line">
+<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+</div>
+
+##
+
+**Voce pode me encontrar aqui**
+<a href="www.linkedin.com/in/joao-emerson-pinto-15ba68319">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+</a>
