@@ -24,7 +24,7 @@ Busco criar soluções eficientes e inovadoras, sempre aprendendo novas tecnolog
 
 **Voce pode me encontrar aqui**
 <div display="in-line">
-<a target="_blank" href="www.linkedin.com/in/joao-emerson-pinto-15ba68319">
+<a target="_blank" href="(www.linkedin.com/in/joao-emerson-pinto-15ba68319)">
 <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />          
 </a>
 </div>
